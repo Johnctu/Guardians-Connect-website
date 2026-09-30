@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guardians-connect.johnctu.chatgpt.site/sitemap.xml
+Sitemap: https://johnctu.github.io/Guardians-Connect-website/sitemap.xml
