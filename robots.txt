@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://johnctu.github.io/Guardians-Connect-website/sitemap.xml
+Sitemap: https://guardiansconnect.com.au/sitemap.xml
